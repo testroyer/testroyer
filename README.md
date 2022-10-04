@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @testroyer
 - 👀 I’m interested in CS and stuff
-- 🌱 I’m currently learning nothing I'm at highschool
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord: testroyer@1682
 
