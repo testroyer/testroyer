@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hello there, I'm testroyer!</h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello there, I'm testroyer!</h1>
 
 # 💫 About me:
 🏫 Currently studying @Lycée Français Saint-Joseph d'Istanbul<br>⌨️ Aspiring to be a Computer Scientist<br>🎸 Semi-professional musician<br>🔉 Self-learning audio engineering<br>⚡ Electronics hobbyist<br>🎭 Interested in art forms such as poetry, theatre and photography
@@ -24,6 +24,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=testroyer&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
@@ -31,3 +33,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=testroyer&label=Profile%20views&color=0e75b6&style=flat" alt="testroyer" /> </p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/testroyer/testroyer/main/Bottom.svg"/>
+</p>
