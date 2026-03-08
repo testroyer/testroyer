@@ -1,4 +1,6 @@
-# 👋 Hello there, I'm testroyer:
+<h1 align="center"> 👋 Hello there, I'm testroyer!</h1>
+
+# 💫 About me:
 🏫 Currently studying @Lycée Français Saint-Joseph d'Istanbul<br>⌨️ Aspiring to be a Computer Scientist<br>🎸 Semi-professional musician<br>🔉 Self-learning audio engineering<br>⚡ Electronics hobbyist<br>🎭 Interested in art forms such as poetry, theatre and photography
 
 
