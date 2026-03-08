@@ -1,7 +1,7 @@
 <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello there, I'm testroyer!</h1>
 
 # 💫 About me:
-🏫 Currently studying @Lycée Français Saint-Joseph d'Istanbul<br>⌨️ Aspiring to be a Computer Scientist<br>🎸 Semi-professional musician<br>🔉 Self-learning audio engineering<br>⚡ Electronics hobbyist<br>🎭 Interested in art forms such as poetry, theatre and photography
+🏫 Currently studying [*@Lycée Français Saint-Joseph d'Istanbul*](https://sj.k12.tr/)<br>⌨️ Aspiring to be a Computer Scientist<br>🎸 Semi-professional musician<br>🔉 Self-learning audio engineering<br>⚡ Electronics hobbyist<br>🎭 Interested in art forms such as poetry, theatre and photography
 
 
 ## 🌐 Socials:
