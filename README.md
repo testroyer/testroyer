@@ -26,9 +26,8 @@
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=testroyer&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
-
+### 📈 Activity
+![](https://github-readme-activity-graph.vercel.app/graph?username=testroyer&theme=github-compact&area=true&hide_title=true&height=300)
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=testroyer&label=Profile%20views&color=0e75b6&style=flat" alt="testroyer" /> </p>
