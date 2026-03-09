@@ -17,7 +17,7 @@
 ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=testroyer&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=testroyer&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy-kannan.vercel.app/?username=testroyer&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
 
 
 
